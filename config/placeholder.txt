@@ -1,0 +1,4 @@
+# placeholders, should be filtered (R08)
+AKIAIOSFODNN7EXAMPLE
+aws_access_key_id = <your-key-here>
+token = XXXXXXXXXXXXXXXX
